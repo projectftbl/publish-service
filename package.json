@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/publish-service",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Content publishing services",
   "main": "node index",
   "scripts": {
